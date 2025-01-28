@@ -1,6 +1,7 @@
 ## Dataset Overview
 
 This repository contains structured datasets sourced from the **Detroit Open Data Portal** to support the research study on **AI-driven security analysis**. The dataset facilitates crime pattern identification, emergency response analysis, and socio-economic risk assessment in high-risk urban environments.
+---
 
 ### Datasets and Features
 
@@ -28,5 +29,3 @@ This repository contains structured datasets sourced from the **Detroit Open Dat
 
 ### Data Source
 This dataset is sourced from the **Detroit Open Data Portal** and is used to develop an AI-powered security framework. It provides a **multi-dimensional security assessment** to enhance crime prevention strategies in high-risk urban areas.
-
----
