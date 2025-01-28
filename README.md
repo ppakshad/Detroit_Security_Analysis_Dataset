@@ -30,6 +30,3 @@ This repository contains structured datasets sourced from the **Detroit Open Dat
 This dataset is sourced from the **Detroit Open Data Portal** and is used to develop an AI-powered security framework. It provides a **multi-dimensional security assessment** to enhance crime prevention strategies in high-risk urban areas.
 
 ---
-
-**Contributions & Feedback**
-If you find this dataset useful or have suggestions, feel free to submit a pull request or open an issue.
